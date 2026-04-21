@@ -1,0 +1,128 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "updated": "2026-04-21",
+  "owner": "GvAiSuperAdmin",
+  "projects": [
+    {
+      "name": "octopuss-memory",
+      "repo": "https://github.com/GvAiSuperAdmin/octopuss-memory",
+      "visibility": "public",
+      "description": "Canonical AI memory, protocols, and skills — single source of truth for every project.",
+      "language": "Shell",
+      "status": "LIVE",
+      "active_branch": "main",
+      "deploy_url": null,
+      "notes_file": "projects/octopuss-memory.md",
+      "last_touched": "2026-04-21"
+    },
+    {
+      "name": "github-mcp",
+      "repo": null,
+      "visibility": "planned",
+      "description": "Fresh GitHub MCP server for Vercel. Replaces the failing github-mcp-vercel.",
+      "language": "TypeScript",
+      "status": "WIP",
+      "active_branch": "main",
+      "deploy_url": null,
+      "scaffold_path": "scaffolds/github-mcp",
+      "notes_file": "projects/github-mcp.md",
+      "last_touched": "2026-04-21"
+    },
+    {
+      "name": "github-mcp-vercel",
+      "repo": "https://github.com/GvAiSuperAdmin/github-mcp-vercel",
+      "visibility": "public",
+      "description": "Earlier attempt at a GitHub MCP server on Vercel. Deployment currently in ERROR state.",
+      "language": "TypeScript",
+      "status": "FAIL_ARCHIVE",
+      "active_branch": "main",
+      "deploy_url": "https://vercel.com/gvaisuperadmins-projects/github-mcp-vercel",
+      "notes_file": "projects/github-mcp-vercel.md",
+      "last_touched": "2026-04-20"
+    },
+    {
+      "name": "payload-cms-mcp-server",
+      "repo": "https://github.com/GvAiSuperAdmin/payload-cms-mcp-server",
+      "visibility": "public",
+      "description": "Payload CMS MCP server.",
+      "language": "TypeScript",
+      "status": "UNKNOWN",
+      "active_branch": "main",
+      "deploy_url": null,
+      "notes_file": "projects/payload-cms-mcp-server.md",
+      "last_touched": "2026-04-20"
+    },
+    {
+      "name": "Claude-Octopuss",
+      "repo": "https://github.com/GvAiSuperAdmin/Claude-Octopuss",
+      "visibility": "public",
+      "description": "Earlier iteration of octopuss-memory. Candidate for archive.",
+      "language": null,
+      "status": "IDLE",
+      "active_branch": "main",
+      "deploy_url": null,
+      "notes_file": "projects/Claude-Octopuss.md",
+      "last_touched": "2026-03-25"
+    },
+    {
+      "name": "CasaCash",
+      "repo": "https://github.com/GvAiSuperAdmin/CasaCash",
+      "visibility": "public",
+      "description": "Not yet audited in this session.",
+      "language": "CSS",
+      "status": "UNKNOWN",
+      "active_branch": "main",
+      "deploy_url": null,
+      "notes_file": "projects/CasaCash.md",
+      "last_touched": "2026-04-04"
+    },
+    {
+      "name": "verolodex",
+      "repo": "https://github.com/GvAiSuperAdmin/verolodex",
+      "visibility": "private",
+      "description": "Private — contents not accessible from this session.",
+      "language": null,
+      "status": "UNKNOWN",
+      "active_branch": "main",
+      "deploy_url": null,
+      "notes_file": "projects/verolodex.md",
+      "last_touched": "2026-03-25"
+    },
+    {
+      "name": "Travel",
+      "repo": "https://github.com/GvAiSuperAdmin/Travel",
+      "visibility": "private",
+      "description": "Private — contents not accessible from this session.",
+      "language": null,
+      "status": "UNKNOWN",
+      "active_branch": "main",
+      "deploy_url": null,
+      "notes_file": "projects/Travel.md",
+      "last_touched": "2026-01-27"
+    },
+    {
+      "name": "buybyai",
+      "repo": "https://github.com/GvAiSuperAdmin/buybyai",
+      "visibility": "private",
+      "description": "Buy By Ai — AI buying for the construction industry.",
+      "language": null,
+      "status": "UNKNOWN",
+      "active_branch": "main",
+      "deploy_url": null,
+      "notes_file": "projects/buybyai.md",
+      "last_touched": "2025-02-06"
+    },
+    {
+      "name": "wtflist.com",
+      "repo": "https://github.com/GvAiSuperAdmin/wtflist.com",
+      "visibility": "private",
+      "description": "Ze Ultimate List of Lists.",
+      "language": null,
+      "status": "UNKNOWN",
+      "active_branch": "main",
+      "deploy_url": null,
+      "notes_file": "projects/wtflist.com.md",
+      "last_touched": "2024-03-06"
+    }
+  ]
+}
