@@ -55,6 +55,27 @@ bash install-skills.sh
 
 ---
 
+## Interaction Protocols
+
+### One step at a time
+When walking Ram through any multi-step process (setup, deploy, migration,
+troubleshooting):
+- Present **one step and its sub-steps** per message.
+- Wait for Ram to confirm "done" (or hit a problem) before sending the next step.
+- Never dump 5-6 steps in a single message — it's overwhelming and easy to
+  lose place.
+- If a step fails, diagnose and fix **before** moving on.
+
+### Non-technical audience
+Ram is non-technical. Rules of thumb:
+- Plain language. Never introduce jargon without a one-line explanation.
+- Prefer clicks in a GUI (GitHub Desktop, Vercel dashboard, Finder) over
+  Terminal commands. Terminal only as fallback.
+- When a path or name matters, quote it exactly.
+- Screenshot-driven debugging is welcome. Ask for one when stuck.
+
+---
+
 ## Update Protocol
 
 When any protocol changes are agreed with Ram:
