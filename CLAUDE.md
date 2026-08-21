@@ -1,6 +1,8 @@
 # CLAUDE.md
 > This file is the entry point for Claude Code and Cowork.
 > It pulls all protocols, preferences, and skills from the canonical octopuss-memory.
+>
+> **Confused about where this brain lives, which copy is real, or the GitHub sync? Read [MEMORY-MAP.md](MEMORY-MAP.md) FIRST** — it maps every location and records the source-of-truth decision so you don't have to investigate.
 
 ---
 
