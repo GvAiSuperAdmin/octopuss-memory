@@ -18,7 +18,7 @@ echo "🐙 OCTOPUSS SKILLS INSTALLER"
 echo "=============================="
 echo ""
 
-# ─── ANTHROPIC OFFICIAL SKILLS ────────────────────────────
+# ─── ANTHROPIC OFFICIAL SKILLS ────────────────────────
 echo -e "${YELLOW}[1/5] Installing Anthropic Official Skills...${NC}"
 
 npx skills add anthropics/skills --skill frontend-design
@@ -41,7 +41,7 @@ npx skills add anthropics/skills --skill webapp-testing
 echo -e "${GREEN}✓ Anthropic skills installed${NC}"
 echo ""
 
-# ─── DESIGN EXCELLENCE ────────────────────────────────────
+# ─── DESIGN EXCELLENCE ────────────────────────────────
 echo -e "${YELLOW}[2/5] Installing Design Excellence Skills...${NC}"
 
 npx skills add https://github.com/nextlevelbuilder/ui-ux-pro-max-skill --skill ui-ux-pro-max
@@ -63,7 +63,7 @@ npx skills add https://github.com/pbakaus/impeccable --skill normalize
 echo -e "${GREEN}✓ Design skills installed${NC}"
 echo ""
 
-# ─── STRATEGY & SUPERPOWERS ───────────────────────────────
+# ─── STRATEGY & SUPERPOWERS ───────────────────────────
 echo -e "${YELLOW}[3/5] Installing Strategy & Superpowers...${NC}"
 
 npx skills add https://github.com/obra/superpowers --skill brainstorming
@@ -83,7 +83,7 @@ npx skills add https://github.com/obra/superpowers --skill receiving-code-review
 echo -e "${GREEN}✓ Strategy skills installed${NC}"
 echo ""
 
-# ─── MARKETING SUITE ──────────────────────────────────────
+# ─── MARKETING SUITE ─────────────────────────────────
 echo -e "${YELLOW}[4/5] Installing Marketing Suite...${NC}"
 
 npx skills add https://github.com/coreyhaines31/marketingskills --skill copywriting
@@ -106,7 +106,7 @@ npx skills add https://github.com/coreyhaines31/marketingskills --skill cold-ema
 echo -e "${GREEN}✓ Marketing skills installed${NC}"
 echo ""
 
-# ─── SPECIALIST TOOLS ─────────────────────────────────────
+# ─── SPECIALIST TOOLS ────────────────────────────────
 echo -e "${YELLOW}[5/5] Installing Specialist & Agent Skills...${NC}"
 
 npx skills add https://github.com/forrestchang/andrej-karpathy-skills
@@ -130,9 +130,9 @@ npx skills add https://github.com/thedotmack/claude-mem
 echo -e "${GREEN}✓ Specialist skills installed${NC}"
 echo ""
 
-# ─── PULL CANONICAL MEMORY ────────────────────────────────
+# ─── PULL CANONICAL MEMORY ───────────────────────────
 echo -e "${YELLOW}Pulling latest octopuss-memory.md...${NC}"
-curl -s https://raw.githubusercontent.com/[YOUR-GITHUB-USERNAME]/octopuss-memory/main/octopuss-memory.md > octopuss-memory.md
+curl -s https://raw.githubusercontent.com/GvAiSuperAdmin/octopuss-memory/main/octopuss-memory.md > octopuss-memory.md
 echo -e "${GREEN}✓ octopuss-memory.md synced${NC}"
 
 echo ""
@@ -143,3 +143,5 @@ echo ""
 echo "Skills are ready for Claude Code and Cowork."
 echo "Run this script at the start of any new project."
 echo ""
+
+#Octopuss
